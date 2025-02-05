@@ -122,20 +122,20 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.3); /* Semi-transparent black overlay */
+    background: rgba(0, 0, 0, 0.4); /* Semi-transparent black overlay */
     backdrop-filter: blur(0px); /* Subtle blur effect */
     z-index: -1;
 }
 
 /* Timer styles */
 .timer {
-    font-size: 8em;
+    font-size: 15em;
     margin-bottom: 20px;
     color: white;
-    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+    text-shadow: 2px 2px 15px rgba(233, 23, 23, 0.5);
     z-index: 1; /* Ensure text is above the blur overlay */
     font-weight: bolder;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 
 /* To-Do List container */
