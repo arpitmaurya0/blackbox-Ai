@@ -129,7 +129,7 @@ body::before {
 
 /* Timer styles */
 .timer {
-    font-size: 150px;
+    font-size: 17em;
     margin-bottom: 20px;
     color: white;
     text-shadow: 2px 2px 15px rgba(233, 23, 23, 0.5);
